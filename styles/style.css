@@ -56,7 +56,7 @@
   position: absolute;
   height: 568px;
   width: 568px;
-  background-color: #2f80ed ;
+  background-color: #2f80ed;
   top: 64px;
   right: 0;
   z-index: 0;
@@ -96,7 +96,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  color: #2f80ed ;
+  color: #2f80ed;
   margin: 0;
 }
 
@@ -212,7 +212,7 @@
   font-weight: normal;
   color:  #2f80ed;
   right: 48px;
-  top:50%
+  top:50%;
 }
 
 .feynman__image{
@@ -220,7 +220,7 @@
   left: 0;
   bottom: 0;
   z-index: 0;
-  width:867px ;
+  width:867px;
   height: 637px;
 
 }
