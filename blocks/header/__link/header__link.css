@@ -1,0 +1,13 @@
+.header__link {
+  color: #2f80ed;
+  text-decoration: none;
+  opacity: 1;
+}
+
+.header__link:hover {
+  animation-name: opacity;
+  animation-duration: .3s;
+  animation-direction:normal;
+  animation-timing-function:linear;
+  animation-fill-mode:forwards;
+}
